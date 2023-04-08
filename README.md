@@ -26,16 +26,16 @@ I'm Kirsty, a fullstack software engineer from the UK, based in Spain ☀️
 
 <br/>
 
-<!-- ## Expertise
+## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /> -->
+<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 
 <h2> &nbsp;Some Tools I've Used and Learned</h2>
-<p>
+<p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
@@ -58,6 +58,6 @@ I'm Kirsty, a fullstack software engineer from the UK, based in Spain ☀️
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-[![Top Langs](https://github-readme-stats-kirstybrown.vercel.app/api/top-langs/?username=kirstybrown&layout=compact)](https://github.com/kirstybrown/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-kirstybrown.vercel.app/api/top-langs/?username=kirstybrown&layout=compact)](https://github.com/kirstybrown/github-readme-stats) -->
 
 ![Kirsty's GitHub stats](https://github-readme-stats-kirstybrown.vercel.app/api?username=kirstybrown&hide=contribs,prs&show_icons=true&theme=algolia)
