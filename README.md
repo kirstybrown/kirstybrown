@@ -5,9 +5,9 @@
 I'm Kirsty, a fullstack software engineer from the UK, based in Spain ☀️
 
 - 🧱 Currently working on multiple projects with React, TypeScript, Nodejs, NextJS, MongoDB...
-- 🖥️ At work, I also use Java, Spring, SQL and Angular
+- 🖥️ At work, I also use Angular, Java, Spring, Quarkus and SQL (PostgreSQL, MySQL)
 - 🌱 Learning how to apply best practices, Hexagonal Architecture, Responsive Design, linting...
-- 🔮 Keen to learn more about React Native, Flutter, CI/CD, UX and accessibility, Design Patterns
+- 🔮 Keen to learn more about React Native, CI/CD, UX and Accessibility, Design Patterns
 - 🧪 Interested in testing, particularly via TDD
 - ⚡ I originally graduated in Geography from Cambridge University
 - 🌄 When not programming, I love running in the mountains, then devouring vegan ice cream
